@@ -21,7 +21,7 @@ const Main=()=>{
                     <div className="logo">
                        <h1>PATASHALA</h1>
                     </div> <br/><br/> <br/><br/><br/><br/><br/><br/><br/>
-                    <h1> A room without books is like <br/> a body without a soul </h1>
+                    <h1> A room without books is like <br/> a body without a soul. </h1>
                 </div>
                 <div className="row2">
                     <h2>Please search any book name</h2>
